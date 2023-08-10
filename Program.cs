@@ -21,7 +21,8 @@ String  valuta = "180";
 
 //Console.WriteLine(number + valuta);
 
-//casting,parsiranje
+// casting,parsiranje
+
 string result = ((int.Parse(number) + int.Parse(valuta))/100).ToString();
 Console.WriteLine("Cijena proizvoda je: " + result);
 
