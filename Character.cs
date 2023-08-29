@@ -4,6 +4,8 @@ namespace Program
     {
         public string CharacterClass;
         public string CharacterName;
+        
+        public int strength = 10;
 
         public Character(string charClass, string characterName)
         {

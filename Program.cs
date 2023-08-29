@@ -13,7 +13,8 @@ namespace Program
             Character player = new Character(charClass, name);
             player.print();
 
-
+            BattleManager battle = new BattleManager();
+            battle.startBattle(player);
         }
     }
 }

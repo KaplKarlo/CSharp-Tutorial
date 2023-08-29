@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karlo\\Desktop\\VS Code\\VS Code.csproj": {}
+    "c:\\Users\\Karlo\\Desktop\\VS Code\\VS Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karlo\\Desktop\\VS Code\\VS Code.csproj": {
+    "c:\\Users\\Karlo\\Desktop\\VS Code\\VS Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karlo\\Desktop\\VS Code\\VS Code.csproj",
+        "projectUniqueName": "c:\\Users\\Karlo\\Desktop\\VS Code\\VS Code.csproj",
         "projectName": "VS Code",
-        "projectPath": "C:\\Users\\Karlo\\Desktop\\VS Code\\VS Code.csproj",
+        "projectPath": "c:\\Users\\Karlo\\Desktop\\VS Code\\VS Code.csproj",
         "packagesPath": "C:\\Users\\Karlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karlo\\Desktop\\VS Code\\obj\\",
+        "outputPath": "c:\\Users\\Karlo\\Desktop\\VS Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
