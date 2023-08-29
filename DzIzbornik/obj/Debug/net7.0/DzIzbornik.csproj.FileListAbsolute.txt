@@ -1,0 +1,15 @@
+C:\Users\Karlo\Desktop\DzIzbornik\bin\Debug\net7.0\DzIzbornik.exe
+C:\Users\Karlo\Desktop\DzIzbornik\bin\Debug\net7.0\DzIzbornik.deps.json
+C:\Users\Karlo\Desktop\DzIzbornik\bin\Debug\net7.0\DzIzbornik.runtimeconfig.json
+C:\Users\Karlo\Desktop\DzIzbornik\bin\Debug\net7.0\DzIzbornik.dll
+C:\Users\Karlo\Desktop\DzIzbornik\bin\Debug\net7.0\DzIzbornik.pdb
+C:\Users\Karlo\Desktop\DzIzbornik\obj\Debug\net7.0\DzIzbornik.csproj.AssemblyReference.cache
+C:\Users\Karlo\Desktop\DzIzbornik\obj\Debug\net7.0\DzIzbornik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karlo\Desktop\DzIzbornik\obj\Debug\net7.0\DzIzbornik.AssemblyInfoInputs.cache
+C:\Users\Karlo\Desktop\DzIzbornik\obj\Debug\net7.0\DzIzbornik.AssemblyInfo.cs
+C:\Users\Karlo\Desktop\DzIzbornik\obj\Debug\net7.0\DzIzbornik.csproj.CoreCompileInputs.cache
+C:\Users\Karlo\Desktop\DzIzbornik\obj\Debug\net7.0\DzIzbornik.dll
+C:\Users\Karlo\Desktop\DzIzbornik\obj\Debug\net7.0\refint\DzIzbornik.dll
+C:\Users\Karlo\Desktop\DzIzbornik\obj\Debug\net7.0\DzIzbornik.pdb
+C:\Users\Karlo\Desktop\DzIzbornik\obj\Debug\net7.0\DzIzbornik.genruntimeconfig.cache
+C:\Users\Karlo\Desktop\DzIzbornik\obj\Debug\net7.0\ref\DzIzbornik.dll
