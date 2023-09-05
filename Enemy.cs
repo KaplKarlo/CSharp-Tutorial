@@ -1,46 +1,44 @@
-namespace Program {
-    abstract class Enemy {
-        public abstract string name { get; }
-        public abstract int health { get; set; }
-        public abstract int damage { get;}
+namespace Program
+{
+    interface Enemy
+    {
+        public string name { get; }
+        public int health { get; set; }
+        public int damage { get; }
 
-        public virtual bool calculateDamage(int userDamage) {
-               int currentHealth = health - userDamage;
+        public bool calculateDamage(int userDamage);
+    }
 
-            if (currentHealth > 0) {
-                health = currentHealth;
-                Console.WriteLine("You did " + userDamage + " damage. Current enemy health: " + this.health);
-                return false; 
-            }
-            if (currentHealth <= 0) {
-                Console.WriteLine("You are victorious!");
-                return true;
-            }
-            return false;
+    class Ogre : Enemy
+    {
+        public  string name { get; } = "Ogre";
+        public  int health { get; set; } = 110;
+        public  int damage { get; } = 20;
+
+        public bool calculateDamage(int userDamage){
+            return true;
         }
     }
 
-    class Ogre : Enemy {
-        public override string name { get; } = "Ogre";
-        public override int health { get; set; } = 110;
-        public override int damage { get; } = 20;
-    }
-
-    class OgreMage : Enemy {  
-        public override string name { get; } = "Ogre";
-        public override int health { get; set; } = 110;
-        public override int damage { get; } = 20;
+    class OgreMage : Enemy
+    {
+        public  string name { get; } = "Ogre";
+        public  int health { get; set; } = 110;
+        public  int damage { get; } = 20;
         int magicResistance = 5;
 
-        public override bool calculateDamage(int userDamage) {
+        public  bool calculateDamage(int userDamage)
+        {
             int currentHealth = health - (userDamage - magicResistance);
 
-            if (currentHealth > 0) {
+            if (currentHealth > 0)
+            {
                 health = currentHealth;
                 Console.WriteLine("You did " + userDamage + " damage. Current enemy health: " + this.health);
-                return false; 
+                return false;
             }
-            if (currentHealth <= 0) {
+            if (currentHealth <= 0)
+            {
                 Console.WriteLine("You are victorious!");
                 return true;
             }
