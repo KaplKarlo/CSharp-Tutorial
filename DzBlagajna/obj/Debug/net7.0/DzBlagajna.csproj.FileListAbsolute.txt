@@ -1,0 +1,15 @@
+C:\Users\Karlo\Desktop\DzBlagajna\bin\Debug\net7.0\DzBlagajna.exe
+C:\Users\Karlo\Desktop\DzBlagajna\bin\Debug\net7.0\DzBlagajna.deps.json
+C:\Users\Karlo\Desktop\DzBlagajna\bin\Debug\net7.0\DzBlagajna.runtimeconfig.json
+C:\Users\Karlo\Desktop\DzBlagajna\bin\Debug\net7.0\DzBlagajna.dll
+C:\Users\Karlo\Desktop\DzBlagajna\bin\Debug\net7.0\DzBlagajna.pdb
+C:\Users\Karlo\Desktop\DzBlagajna\obj\Debug\net7.0\DzBlagajna.csproj.AssemblyReference.cache
+C:\Users\Karlo\Desktop\DzBlagajna\obj\Debug\net7.0\DzBlagajna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karlo\Desktop\DzBlagajna\obj\Debug\net7.0\DzBlagajna.AssemblyInfoInputs.cache
+C:\Users\Karlo\Desktop\DzBlagajna\obj\Debug\net7.0\DzBlagajna.AssemblyInfo.cs
+C:\Users\Karlo\Desktop\DzBlagajna\obj\Debug\net7.0\DzBlagajna.csproj.CoreCompileInputs.cache
+C:\Users\Karlo\Desktop\DzBlagajna\obj\Debug\net7.0\DzBlagajna.dll
+C:\Users\Karlo\Desktop\DzBlagajna\obj\Debug\net7.0\refint\DzBlagajna.dll
+C:\Users\Karlo\Desktop\DzBlagajna\obj\Debug\net7.0\DzBlagajna.pdb
+C:\Users\Karlo\Desktop\DzBlagajna\obj\Debug\net7.0\DzBlagajna.genruntimeconfig.cache
+C:\Users\Karlo\Desktop\DzBlagajna\obj\Debug\net7.0\ref\DzBlagajna.dll
